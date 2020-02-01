@@ -28,7 +28,7 @@
     "pluralize": "^7.0.0",
     "request": "^2.83.0",
     "server-destroy": "^1.0.1",
-    "update-notifier": "^2.3.0",
+    "update-notifier": "^4.0.0",
     "yargs": "^10.0.3"
   },
   "devDependencies": {
